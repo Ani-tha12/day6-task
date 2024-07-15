@@ -1,0 +1,8 @@
+function number(arr)
+ {
+    return Math.max(...arr);
+
+ }
+ console.log(number([10,40,25,67]));
+
+
